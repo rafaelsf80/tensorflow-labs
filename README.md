@@ -41,7 +41,6 @@ Originally based on [this repo](https://github.com/https-deeplearning-ai/tensorf
 
 ## Exercises Recommendation systems
 
-* Notebook 1: [Content filter preprocessing](05-recommenders/1-content-based-preproc.ipynb)
-* Notebook 2: [Content filter training](05-recommenders/2-content-based-using-neural-networks.ipynb)
-* Notebook 3: [Collaborative filtering WALS](05-recommenders/3-wals.ipynb)
-* Notebook 4: [TFRS](05-recommenders/4-tfrs.ipynb)
+* Notebook 4: [Collaborative Filtering for Movie Recommendations in Keras 3](05-recommenders/4-cf-movielens.ipynb)
+* Notebook 5: [TFRS](05-recommenders/5-tfrs.ipynb)
+* Notebook 6: [RankNet](05-recommenders/6-ranknet.ipynb)
