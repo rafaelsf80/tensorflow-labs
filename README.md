@@ -1,6 +1,6 @@
 # TensorFlow labs
 
-Notebooks and scripts to prepare the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate), as well as other samples beyond that.
+Notebooks and scripts to prepare the [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate), as well as other samples covering more content.
 
 > This repo contains some exercises to be completed. In some files, code may contain some `TODO` to be completed/filled. The solution is not included in this repo. 
 
