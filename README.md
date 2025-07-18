@@ -42,5 +42,5 @@ Originally based on [this repo](https://github.com/https-deeplearning-ai/tensorf
 ## Exercises Recommendation systems
 
 * Notebook 4: [Collaborative Filtering for Movie Recommendations in Keras 3](05-recommenders/4-cf-movielens.ipynb)
-* Notebook 5: [TFRS](05-recommenders/5-tfrs.ipynb)
+* Notebook 5: [TFRS](05-recommenders/5-keras-rs.ipynb)
 * Notebook 6: [RankNet](05-recommenders/6-ranknet.ipynb)
